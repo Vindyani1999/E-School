@@ -51,11 +51,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## App Demo 
 
-
 [![--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<img src="https://github.com/Vindyani1999/E-School/assets/145743416/05e1ea31-39e6-4b63-baa1-7e60bd7bffcf" alt="App Demo" width="200" height="400">
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Vindyani1999/E-School/assets/145743416/05e1ea31-39e6-4b63-baa1-7e60bd7bffcf" alt="App Demo" width="200" height="400" >
+    <img src="https://github.com/Vindyani1999/E-School/assets/145743416/bcaa7bb2-858e-4de8-8ecc-1e428f57fa7a" alt="" width="200" height="400">
+    <img src="https://github.com/Vindyani1999/E-School/assets/145743416/bb339029-5d76-4f9b-aade-a4204b76dc02" alt="" width="200" height="400">
+</div>
 
 
