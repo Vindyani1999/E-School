@@ -1,0 +1,50 @@
+<!-- res/layout/item_video.xml -->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:ignore="WebViewLayout"
+    tools:context=".VideoTutorialActivity1">
+
+    <WebView
+        android:id="@+id/webView1"
+        android:layout_width="374dp"
+        android:layout_height="195dp"
+        android:layout_marginStart="12dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <WebView
+        android:id="@+id/webView2"
+        android:layout_width="370dp"
+        android:layout_height="195dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="201dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <WebView
+        android:id="@+id/webView3"
+        android:layout_width="370dp"
+        android:layout_height="195dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="402dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <WebView
+        android:id="@+id/webView4"
+        android:layout_width="370dp"
+        android:layout_height="195dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="603dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

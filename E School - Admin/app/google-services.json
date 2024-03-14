@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314563887202",
+    "project_id": "loginsingupauth",
+    "storage_bucket": "loginsingupauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314563887202:android:966fb50d0d7fb337c3513b",
+        "android_client_info": {
+          "package_name": "com.example.loginsingupauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVlp7Hs1lQuEIfYns4UaMIXE_SO5hPdnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
