@@ -47,12 +47,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - Android PDF Viewer
 - CardView
 
----
+[![--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ## App Demo 
 
-[![--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+### User
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Vindyani1999/E-School/assets/145743416/05e1ea31-39e6-4b63-baa1-7e60bd7bffcf" alt="App Demo" width="180" height="360">&emsp;
@@ -69,6 +69,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <img src="https://github.com/Vindyani1999/E-School/assets/145743416/524271ee-7168-49f4-a62b-e8f49ea4da03" alt="" width="180" height="360">&emsp;
     <img src="https://github.com/Vindyani1999/E-School/assets/145743416/3744d967-8e43-4662-b53d-43f23c2dfa29" alt="" width="180" height="360">&emsp;
 </div>
+
+### Admin
+
+
 
 
 
