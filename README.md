@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### 🧑‍💼 Admin Features
 
-- Security
+- Feature For update password 
 - A separate application specifically designed for maintenance processes.
 - Handles authentication, database management, and CRUD operations accessible only to admins.
 - Aallowing for future updates and the addition of new educational content.
