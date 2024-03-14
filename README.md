@@ -1,11 +1,11 @@
 # E-Scool Android App
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 Welcome to the E-School Learning Android App repository! This project aims to provide an enhanced learning experience for school students through a comprehensive Android application. With a focus on user-friendly design and seamless functionality, our app caters to both students and administrators, offering a platform that fosters efficient learning and management.
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ## Table of Contents
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## App Demo 
 
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+[![--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
