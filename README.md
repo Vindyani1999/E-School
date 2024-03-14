@@ -20,17 +20,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 #### 🙋‍♀️ User Fretures
 - Colorful and attractive design.
-- Intuitive navigation for easy access to features.
 - Grades 6 to 11 categorized for easy selection.
 - Subjects organized under each grade for quick access.
-- View and download relevant textbooks for each subject.
-- Access categorized past papers for practice and download them.
-- Take unit tests to assess understanding.
-- Detailed video explanations related to the syllabus.
-- Interactive quizzes for self-assessment.
+- View and download relevant textbooks, pastpapers, videos for each subject.
 - No complex signup and sign-in processes.
-- Students can freely use the app at any time.
-- Students can view educational documents within the app.
 -  Option for students to download relevant educational materials (textbooks and papers).
 
 #### 🧑‍💼 Admin Features
