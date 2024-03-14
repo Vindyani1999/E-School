@@ -70,7 +70,18 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <img src="https://github.com/Vindyani1999/E-School/assets/145743416/3744d967-8e43-4662-b53d-43f23c2dfa29" alt="" width="180" height="360">&emsp;
 </div>
 
+---
+
 ### Admin
+
+<div>
+  <img src="https://github.com/Vindyani1999/E-School/assets/145743416/5cda7a0d-0768-4061-918c-b29ef18bd538" alt="" width="180" height="360">&emsp;
+  <img src="https://github.com/Vindyani1999/E-School/assets/145743416/1e1f9ba1-7e73-4abd-a549-5ec9182653db" alt="" width="180" height="360">&emsp;
+  <img src="https://github.com/Vindyani1999/E-School/assets/145743416/8c07f2ac-005a-4c9a-aef1-b6aef622225f" alt="" width="180" height="360">&emsp;
+   <img src="https://github.com/Vindyani1999/E-School/assets/145743416/636c830e-b15b-4fd1-bf7f-73daf2aa96ec" alt="" width="180" height="360">&emsp;
+</div>
+</div>
+
 
 
 
