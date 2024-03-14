@@ -55,5 +55,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+<img src="https://github.com/Vindyani1999/E-School/assets/145743416/05e1ea31-39e6-4b63-baa1-7e60bd7bffcf" alt="App Demo" width="200" height="400">
+
 
 
